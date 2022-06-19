@@ -1,0 +1,38 @@
+id: IC1DF2DDA
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T10:42:49.553462'
+last_modified: '2022-06-19T10:42:49.553474'
+parser: null
+source_metadata:
+  title: Supplement to the Hagiography of Mus chen dKon mchog rgyal mtshan (1388-1469);
+    Lamdre Lobshe, vol. ka, title no. 25
+  author: དགེ་སློང་བསོད་ནམས་སེང་གེ
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-08-20);
+    converted from external file, unrevised, spell-checked, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/378
+  bases:
+    9bde:
+      title: Supplement to the Hagiography of Mus chen dKon mchog rgyal mtshan (1388-1469);
+        Lamdre Lobshe, vol. ka, title no. 25
+      order: 1
+      base_file: 9bde.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
